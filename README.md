@@ -1,0 +1,2 @@
+# Automated-Cancer-Type-Predictions-
+In this project, we will be demonstrating a machine learning algorithm that is trained and tested with a fixed set of data obtained from Kaggle, which classifies the genetic mutations based on clinical evidence (text), which will mainly help in textual classification and analysis. Main aim of the project is to deal with what kind of gene mutation can lead to what type of cancer class. In our current problem, we take nine cancer classes ranging from 1 to 9.
